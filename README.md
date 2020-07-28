@@ -19,7 +19,7 @@ When looking at the cimate data that I collected, I felt as if CO2 per capita le
 The Climate Risk Index is a very interesting and important calculation. This risk index looks at the damage caused by extreme weather. It compares fatalities, fatalities per 1,000 people, Losses in US$ million (PPP), and Losses per unit GDP. Acording to Germanwatch, "each country's index score has been derived from a country's average ranking in all four indicating categories, according to the following weighting: death toll, 1/6; deaths per 100 000 inhabitants, 1/3; absolute losses in PPP, 1/6; losses per GDP unit, 1/3." Climate change is less seen in the day to day changes in temperature, rain fall, etc. but rather in the incidences of extree weather. The Climate Risk Index focuses on the extreme wether conditions, which is a better representation of climate change. This data were hard to illustrate using D6 due to range of ranking and when the ranks were given.
 
 | Country    | Climate Risk Index 1995-2004 | Climate Risk Index 2004 | Climate Risk Index 2017 |
-|-----------------------------------------------------------------------------------------------|
+|------------|------------------------------|-------------------------|-------------------------|
 |Belize      |33                            |                         |124                      |
 |Costa Rica  |56                            |101                      |21                       |
 |El Salvador |37                            |104                      |98                       |

@@ -35,7 +35,7 @@ The Climate Risk Index is a very interesting and important calculation. This ris
 
 ## Challenges
 Throughout the process of collecting, analyzing, and visualizing the data, I ran into many challenges.
-### Data Collection
+#### Data Collection
 My goal was to collect data secific to the regions in Nicaragua. However, I could not find enough data on the specific departments in Nicaragua. 
 
 ## Conclusion

@@ -46,11 +46,16 @@ I noticed a correlation between neonatal mortality and particulate emmisions dam
 
 The figure illustrates both the effects of climate change on particulate emmisions and the effects of particulate emmisions on health.
 
-<video src="1990.MOV" width="320" height="200" controls preload></video>
+The virtual reality graphs all have the x-value as neonatal mortality, the y-value as particulate emmisions damages, the height as % of the population exposed to toxic air, the width as maternal mortality, and the amount of rings as CO2 damages. The changing variable is the color. It is either % of births attended by skilled staff or number of nurses and midwives per 1,000 people. That variable changes due to the data available for the time periods.
 
+In 1990, you can see the higher rates of neonatal mortality among all of the countries. The U.S. has the lowest neonatal mortality rate, but not the lowest particulate emmisions rate. Guatemala has the highest particulate emmisions dage and highet neonatal mortality rate. Nicaragua is the tall red point on the higher end of neonatal mortality and the higher end of particulate emmisions. In 1990 there was enough data to use percent of births attended by skilled staff. The greener points have highe percentages of births attended by skilled staff. 
 ## Challenges
 Throughout the process of collecting, analyzing, and visualizing the data, I ran into many challenges.
 #### Data Collection
-My goal was to collect data secific to the regions in Nicaragua. However, I could not find enough data on the specific departments in Nicaragua. 
+My goal was to collect data secific to the regions in Nicaragua. However, I could not find enough data on the specific departments in Nicaragua. So, I expanded my research to look at all of the central american countries plus the U.S. and Mexico. Even after I expanded the region I was looking at, I continued to have trouble finding the data I wanted. I could not find data for weather patterns. That is when I began to look at other variables that could indicate climate change or would cause climate change. Finally, the years in which data was collected did not always line up among all the countries. To solve this, I split the data up by decade.
+
+#### D6 Software
+The D6 software was very intersting, fun, and easy to use. The main issue I had with the software was that I did not have enough data points for the software to run it's own analysis. 
 
 ## Conclusion
+In conclusion, virtual reality software can be very useful to illustrate data in a more inclusive way. 

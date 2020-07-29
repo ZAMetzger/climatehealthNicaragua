@@ -44,6 +44,9 @@ I noticed a correlation between neonatal mortality and particulate emmisions dam
 
 ![](Particulate1.jpg)
 
+The figure illustrates both the effects of climate change on particulate emmisions and the effects of particulate emmisions on health.
+
+
 ## Challenges
 Throughout the process of collecting, analyzing, and visualizing the data, I ran into many challenges.
 #### Data Collection

@@ -40,7 +40,9 @@ I wanted to collect data that represented both neonatal mortality, but also data
 ## Correlation between Climate Change and Neonatal Survival
 Through D6 I mapped the correlation between average CO2 damage (% of GNI), average % of population exposed to toxic air polution, average particulate emmisions damage (% of GNI), neonatal mortality, maternal mortality, and births attended by skilled staff or average midwives. The three videos show what these graphs looked like in D6. There is a recording for each decade. 
 
-I noticed a correlation between neonatal mortality and particulate emmisions damage. After looking more into particulate emmisions, I found climate change can escalte particulate emmisions and particuate emmisions can cause harm to one's health. 
+I noticed a correlation between neonatal mortality and particulate emmisions damage. After looking more into particulate emmisions, I found climate change can escalte particulate emmisions and particuate emmisions can cause harm to one's health. The figure below was posted in a research paper conducted by De Sario, Katsouyanni, and Michelozzi. 
+
+![](Particulate1.jpg)
 
 ## Challenges
 Throughout the process of collecting, analyzing, and visualizing the data, I ran into many challenges.

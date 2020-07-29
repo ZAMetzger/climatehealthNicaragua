@@ -30,8 +30,17 @@ The Climate Risk Index is a very interesting and important calculation. This ris
 |U.S.        |23                            |9                        |12                       |
 |Mexico      |25                            |49                       |64                       |
 
+As you can see in the chart above, most countries actually increased in rank. Costa Rica was the only country that moved up in rank in 2017 compared to both the 1995-2004 and the 2004 ranks.
+
+## Health Factors
+I collected data on the health factors average under 5 mortality rate per 1,000 live births,	average neonatal mortality rate per 1,000 live births,	average infant mortality rate per 1,000 live births, maternal mortality rate per 1,000 live births,	average % of children receiving diarrhea treatment,	average % of anemia among women (14-49), average % of anemia among children under five,	average % of anemia among pregnant women,	average % women receiving prenatal care, average % of births attened by skilled staff, and average nurses and midwives per 1,000 people. I used neonatal mortality, maternal mortality, births attended by skilled staff, and average midwives in D6.
+
+I wanted to collect data that represented both neonatal mortality, but also data that represents their chance of health and surival down the road. I collected the data for % of children recieving diarrea treatment becuase diarrhea can be very representative of childrens health. Diarrhea can be caused by drinking contaminted water and food. If a family is displaced duee to extreme weather they may end up in a situation which doesn't allow for them to have access to clean drinking water. However, I did not find much of a correlation between diarrhea treatment and neonatal mortality. Again looking at the future health, I collected data on anemia. Anemia can be a result of having a low iron diet. There was a slight correlation between anemia in children and neonatal mortality. The R-squared value was 0.6119 in the 1990's, 0.6980 in the 2000's, and 0.6774 in the 2010's. I chose not to include this in the D6 visulization. 
 
 ## Correlation between Climate Change and Neonatal Survival
+Through D6 I mapped the correlation between average CO2 damage (% of GNI), average % of population exposed to toxic air polution, average particulate emmisions damage (% of GNI), neonatal mortality, maternal mortality, and births attended by skilled staff or average midwives. The three videos show what these graphs looked like in D6. There is a recording for each decade. 
+
+I noticed a correlation between neonatal mortality and particulate emmisions damage. After looking more into particulate emmisions, I found climate change can escalte particulate emmisions and particuate emmisions can cause harm to one's health. 
 
 ## Challenges
 Throughout the process of collecting, analyzing, and visualizing the data, I ran into many challenges.

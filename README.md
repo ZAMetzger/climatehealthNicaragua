@@ -54,7 +54,13 @@ The virtual reality graphs all have the x-value as neonatal mortality, the y-val
 
 In 1990, the U.S. has the lowest neonatal mortality rate, but not the lowest particulate emmisions rate. Guatemala has the highest particulate emmisions damage and highest neonatal mortality rate. Nicaragua is the tall red point on the higher end of neonatal mortality and the higher end of particulate emmisions. In 1990 there was enough data to use percent of births attended by skilled staff. The greener points have highe percentages of births attended by skilled staff. 
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/BX8gQvuBfNk/0.jpg)](http://www.youtube.com/watch?v=BX8gQvuBfNk)
+
 In 2000, 
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/gZpqtYpeXwM/0.jpg)](http://www.youtube.com/watch?v=gZpqtYpeXwM)
+
+
 ## Challenges
 Throughout the process of collecting, analyzing, and visualizing the data, there were many data collection challenges.
 

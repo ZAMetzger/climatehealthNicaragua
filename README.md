@@ -61,6 +61,7 @@ In 2010, Nicaragua has a slightly lower neonatal mortality rate than Belize with
 
 ## Challenges
 Throughout the process of collecting, analyzing, and visualizing the data, there were many data collection challenges.
+
 The goal was to collect data specific to the regions in Nicaragua. However, not enough consistent data on the specific departments in Nicaragua was available. Research was expanded to look at all of Central American countries as well as the U.S. and Mexico. Even after expanding the geographic region, finding needed data was difficult. Consistent weather pattern data was not readily available. Thus, other variables that indicate climate change or cause climate change were explored. An additional challenge, the years for which data was not complete among all countries. To accommodate these inconsistencies, data was averaged over three decades.
 
 The D6 software was very interesting, fun, and easy to use. The main issue was not with the software but was with not having enough data points for the software to run extensive analysis. Analysis and meaningful research begins with harmonized, consistent, and relevant data over an extended time frame.
